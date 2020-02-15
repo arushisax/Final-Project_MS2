@@ -14,13 +14,13 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r}
-#The first project I examined was Ethnicity-Industry-Indiana. While this dataset looks like it was properly cleaned, I found it difficult to discern exact trends. For example, in the first chart when  I click on "Yugoslavia" under Ethnic Descent and "Paper Manufacturing" as my industry, I see the map populate with certain colors which I believe correspond to the population density of Yugoslavic immigrants by county. I am not sure how industry is demarcated on this map, however. I think the author could have improved this map by either simplying variables (reducing them) or by adding better hover and color functionality.
-```
+## Final Project Commentary
 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+The first project I examined was Ethnicity-Industry-Indiana. While this dataset looks like it was properly cleaned, I found it difficult to discern exact trends. For example, in the first chart when  I click on "Yugoslavia" under Ethnic Descent and "Paper Manufacturing" as my industry, I see the map populate with certain colors which I believe correspond to the population density of Yugoslavic immigrants by county. I am not sure how industry is demarcated on this map, however. I think the author could have improved this map by either simplying variables (reducing them) or by adding better hover and color functionality.
+
+The second project I looked at was Togo Kida's Creative Economy. I thought this project was very well done and the data set is rich. The data set includes three different professions by state, their income levels, their ethnicity and gender. The author uses a diversity of charts (line, scatter, map, etc.) and is able to clearly demonstrate trends and takeaways. Furthermore, he uses efffective aesthetic mapping to communicate his thoughts. My big takeaway from this map was that designers, arists, and architects make the most money in California. :) 
+
+
+
+
